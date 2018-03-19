@@ -1,0 +1,4 @@
+com.intellij.resharper.HeapAllocationsViewer
+com.microsoft.vso.idea
+com.paperetto.dash
+quokka.js

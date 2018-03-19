@@ -1,0 +1,19 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array />
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//tfs.mlg.ru/tfs/ext/rnd/_git/mlg.prizma3.backend" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
